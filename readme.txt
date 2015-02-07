@@ -32,10 +32,16 @@ If you find that the module you are interested in is not available after install
 
 == Changelog ==
 
+= 0.1.1 =
+* Fix folder structure
+
 = 0.1.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 0.1.1 =
+Fix folder structure
 
 = 0.1.0 =
 First Release
